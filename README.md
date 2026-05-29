@@ -1,10 +1,6 @@
 \# Marketplace Digital Product
 
-
-
 Mini project SQL database marketplace digital product.
-
-
 
 \## Features
 
@@ -20,11 +16,10 @@ Mini project SQL database marketplace digital product.
 
 \- Join Query
 
-
+\- Optimization
 
 \## Tools
 
 \- MySQL Workbench
 
 \- Draw.io
-

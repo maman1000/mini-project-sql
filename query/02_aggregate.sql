@@ -33,3 +33,4 @@ LEFT JOIN products p
 ON pc.id = p.category_id
 GROUP BY pc.category_name
 HAVING COUNT(p.id) > 3;
+
